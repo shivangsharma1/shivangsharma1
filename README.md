@@ -4,7 +4,7 @@
 - ⚡ In love with the Neural Networks, with the help of my knowledge I will try to contribute to a better future.
 - 👯 Seeking for a challenging position in the company. 
 
-- 📫 How to reach me: 
+- 📫 How to reach me: my_linkedin_profile https://www.linkedin.com/in/shivang-sharma-81117b181/
 ##### Gmail: ssharma.sshivang@gmail.com
 <!--
 **shivangsharma1/shivangsharma1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

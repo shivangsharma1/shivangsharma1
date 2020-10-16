@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Deep Learning Projects related to Natural Language Processing(RNN's) and Images (CNN's). 
+- 🔭 I’m currently working on Deep Learning Projects related to Natural Language Processing(RNN's, LSTM's, and Transformers) and Images (CNN's). 
 - ⚡ In love with the Neural Networks, with the help of my knowledge I will try to contribute to a better future.
 - 👯 Seeking for a challenging position in the company. 
 
